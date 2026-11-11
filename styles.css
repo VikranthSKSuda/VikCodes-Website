@@ -19,6 +19,7 @@ ul li a {
 }
 
 ul li a:hover {
+  border-radius: 5px;
   padding: 16px 18px;
   background-color: #009468;
   animation: shakeEffect 1s infinite;
